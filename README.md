@@ -1,12 +1,10 @@
+> [!Warning]  
+> Hi all! This repo will soon be archived as an official one has been set up. https://github.com/mark-when/obsidian-plugin  
+> The beta version is now available, please direct there to test it or track the future developments! 
+
 # Obsidian Markwhen
 
-![Obsidian Downloads](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=downloads&query=%24%5B%22markwhen%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json)
-
 This plugin integrates [Markwhen](https://github.com/mark-when/markwhen/) into [Obsidian.md](https://obsidian.md/). You can use markwhen syntax to create timelines.
-
-> **Note**  
-> Latest release: NaN  
-> Document version: developer
 
 ## Installation
 
