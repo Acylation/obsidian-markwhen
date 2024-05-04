@@ -1,6 +1,11 @@
 > [!Warning]  
-> Hi all! This repo will soon be archived as an official one has been set up. https://github.com/mark-when/obsidian-plugin  
-> The beta version is now available, please direct there to test it or track the future developments! 
+> Hi all! @Acylation here. This repo is archived, as an officially hosted markwhen plugin has been set up.
+> 
+> I'm marked as collaborator in it, and will be responsible for the Obsidian API / guidelines part.
+> 
+> Please refer to the new repo https://github.com/mark-when/obsidian-plugin to track its future developments!
+> 
+> Thank you and best regards!  
 
 # Obsidian Markwhen
 
@@ -8,7 +13,7 @@ This plugin integrates [Markwhen](https://github.com/mark-when/markwhen/) into [
 
 ## Installation
 
-> **Note**  
+> [!Note]  
 > Make sure that you are not in the **Restricted Mode**.
 
 The plugin is in active deveplopment and **not** even ready for a beta test. Current release have bug and can not run properly.
